@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\DW.GraphQL.HotChocolateDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\schema\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\schema\\pokemonbasestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\schema\\pokemonbasestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\schema\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\schema\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\schema\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\schema\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\schema\\attacktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\schema\\attacktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|c:\\code\\dw.graphql.hotchocolatedemo\\dw.graphql.hotchocolatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7FC42-C6D7-41A9-9E88-B504D24A97DD}|DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo.csproj|solutionrelative:dw.graphql.hotchocolatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackType.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\AttackType.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Schema\\AttackType.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\AttackType.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Schema\\AttackType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:55:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonBaseStats.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\PokemonBaseStats.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Schema\\PokemonBaseStats.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\PokemonBaseStats.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Schema\\PokemonBaseStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:52:34.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\Pokemon.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Schema\\Pokemon.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\Pokemon.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Schema\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:48:58.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonType.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\PokemonType.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Schema\\PokemonType.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\PokemonType.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Schema\\PokemonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T00:44:16.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\Query.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Schema\\Query.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Schema\\Query.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Schema\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:40:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DW.GraphQL.HotChocolateDemo\\Program.cs",
+              "ToolTip": "C:\\code\\DW.GraphQL.HotChocolateDemo\\DW.GraphQL.HotChocolateDemo\\Program.cs",
+              "RelativeToolTip": "DW.GraphQL.HotChocolateDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:23:22.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
