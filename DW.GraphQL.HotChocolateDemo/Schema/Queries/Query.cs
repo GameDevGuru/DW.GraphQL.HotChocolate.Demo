@@ -1,4 +1,6 @@
-﻿namespace DW.GraphQL.HotChocolateDemo.Schema
+﻿using DW.GraphQL.HotChocolateDemo.Schema.Enums;
+
+namespace DW.GraphQL.HotChocolateDemo.Schema.Queries
 {
     public class Query
     {
