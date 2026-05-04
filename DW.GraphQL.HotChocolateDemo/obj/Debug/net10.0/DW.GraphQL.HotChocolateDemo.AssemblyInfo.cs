@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DW.GraphQL.HotChocolateDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520e81e599305f0404d2b6a187b4194245648c10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37d2c77a2b6e14ea0a6159e0393be8c292b9ffa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DW.GraphQL.HotChocolateDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DW.GraphQL.HotChocolateDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
