@@ -67,3 +67,4 @@ C:\code\DW.GraphQL.HotChocolateDemo\DW.GraphQL.HotChocolateDemo\obj\Debug\net10.
 C:\code\DW.GraphQL.HotChocolateDemo\DW.GraphQL.HotChocolateDemo\obj\Debug\net10.0\DW.GraphQL.HotChocolateDemo.pdb
 C:\code\DW.GraphQL.HotChocolateDemo\DW.GraphQL.HotChocolateDemo\obj\Debug\net10.0\DW.GraphQL.HotChocolateDemo.genruntimeconfig.cache
 C:\code\DW.GraphQL.HotChocolateDemo\DW.GraphQL.HotChocolateDemo\obj\Debug\net10.0\ref\DW.GraphQL.HotChocolateDemo.dll
+C:\code\DW.GraphQL.HotChocolateDemo\DW.GraphQL.HotChocolateDemo\obj\Debug\net10.0\DW.GraphQL.HotChocolateDemo.sourcelink.json

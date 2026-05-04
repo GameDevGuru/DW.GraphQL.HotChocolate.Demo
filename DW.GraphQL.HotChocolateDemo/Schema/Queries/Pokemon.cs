@@ -1,4 +1,4 @@
-﻿namespace DW.GraphQL.HotChocolateDemo.Schema
+﻿namespace DW.GraphQL.HotChocolateDemo.Schema.Queries
 {
     public class Pokemon
     {

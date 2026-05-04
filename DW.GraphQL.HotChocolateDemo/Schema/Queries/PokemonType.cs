@@ -1,16 +1,7 @@
-﻿namespace DW.GraphQL.HotChocolateDemo.Schema
+﻿using DW.GraphQL.HotChocolateDemo.Schema.Enums;
+
+namespace DW.GraphQL.HotChocolateDemo.Schema.Queries
 {
-    public enum ElementType
-    {
-        Unknown,
-        Grass,
-        Fire,
-        Water,
-        Electric,
-        Flying,
-        Fighting,
-        Normal
-    }
     public class PokemonType
     {
         public Guid Id { get; set; } = Guid.NewGuid();
