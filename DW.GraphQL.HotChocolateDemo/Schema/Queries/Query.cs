@@ -89,14 +89,9 @@ namespace DW.GraphQL.HotChocolateDemo.Schema.Queries
             return _pokemons;
         }
 
-        public async Task<List<Pokemon>?> GetPokemonByNumber(List<int> numbers)
+        public List<Pokemon>? GetPokemonByNumber(List<int> numbers)
         {
-            await Task.Delay(1000);
-
-            return _pokemons.Where(x => numbers.Contains(x.Number))?.ToList(); // FirstOrDefault(x => x.Number == number);
+            return _pokemons.Where(x => numbers.Contains(x.Number))?.ToList();
         }
-
-        [GraphQLDeprecated("This was a tutorial.")]
-        public string HelloWorld => "Hello World";
     }
 }
