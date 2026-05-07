@@ -9,6 +9,7 @@
         public required PokemonType PokemonType { get; set; }
         public required PokemonBaseStats Stats { get; set; }
         public required IEnumerable<AttackType> AttackList { get; set; } = Enumerable.Empty<AttackType>();
+        public string ImageUrl { get; } = "gs://pokedexflutterapp.firebasestorage.app/assets/pokemon_placeholder.png";
 
         public string PokemonSummary()
         {
